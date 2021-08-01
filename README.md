@@ -12,5 +12,5 @@ https://codemyui.com/social-icon-hover-to-show-social-media-handle/
 https://codepen.io/katydecorah/full/HEgwl/
 
 cards
-https://codepen.io/pieter-biesemans/pen/QWKmXEE
-https://codepen.io/yemon/pen/yLeGQwx
+https://freefrontend.com/css-cards/
+
