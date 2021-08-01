@@ -10,3 +10,7 @@ https://codepen.io/h3xc0ntr0l/pen/BoNEXq
 https://codepen.io/silkine/pen/jldif
 https://codemyui.com/social-icon-hover-to-show-social-media-handle/
 https://codepen.io/katydecorah/full/HEgwl/
+
+cards
+https://codepen.io/pieter-biesemans/pen/QWKmXEE
+https://codepen.io/yemon/pen/yLeGQwx
