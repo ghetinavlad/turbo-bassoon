@@ -21,8 +21,7 @@ top cards Vlad
 1.https://codepen.io/seyedi/pen/zYoeLEv
 2.https://codepen.io/ainalem/pen/xJydpe
 3.https://youtu.be/zBR9qBBM9KA?fbclid=IwAR1TlDoaAeFEWlPK5jFzxBoJArNo_Verh3Y48asL5Bp4bi6IDcSMyXiRVos
-
-4.?pare smecher https://codepen.io/mrReiha/pen/RwPgLeM
+4. pare smecher https://codepen.io/mrReiha/pen/RwPgLeM
 -------------------------------
 
 
