@@ -15,3 +15,19 @@ cards
 https://freefrontend.com/css-cards/
 https://www.youtube.com/watch?v=zBmTt5IeZNI
 https://youtu.be/zBR9qBBM9KA?fbclid=IwAR1TlDoaAeFEWlPK5jFzxBoJArNo_Verh3Y48asL5Bp4bi6IDcSMyXiRVos
+
+-------------------------------
+top cards Vlad
+1.https://codepen.io/seyedi/pen/zYoeLEv
+2.https://codepen.io/ainalem/pen/xJydpe
+3.https://youtu.be/zBR9qBBM9KA?fbclid=IwAR1TlDoaAeFEWlPK5jFzxBoJArNo_Verh3Y48asL5Bp4bi6IDcSMyXiRVos
+
+4.?pare smecher https://codepen.io/mrReiha/pen/RwPgLeM
+-------------------------------
+
+
+
+??nush daca ii responsive cum trebe https://codepen.io/ig_design/pen/VwedgWj
+??nu pentri carduri da eventual pentru ceva grid smecher cu chestii https://codepen.io/lisilinhart/pen/MWaXgxX
+??grid smecher https://codepen.io/andybarefoot/pen/Gwggor
+
